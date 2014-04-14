@@ -1,21 +1,3 @@
-/* 
-
-JS for a web-based app to provide users with real-time quotes for diamonds.
-
-View the whole thing at http://www.rothschildtrading.com/diamond-calculator-buying-guide
-
-
-Module Overview:
-
-aspects -   Properties of the diamond such as color, clarity, carat size, etc.
-            These include the current value as well as the available range/limits/options
-
-events -    Bindings for when diamond aspects change
-            So we can update the visualizer and any other dependent options
-
-basic initialization to set up the UI elements and events
-
-*/
 
 (function ($, Drupal, window, document, undefined) {
     'use strict';
