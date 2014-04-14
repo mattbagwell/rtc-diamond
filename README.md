@@ -1,7 +1,7 @@
 rtc-diamond
 ===========
 
-This is the primary script used for the interactive web-app at [http://www.rothschildtrading.com/diamond-calculator-buying-guide](http://www.rothschildtrading.com/diamond-calculator-buying-guide)
+This is the primary script used for the interactive web-app at <http://www.rothschildtrading.com/diamond-calculator-buying-guide>
 This script sets up the app interface, which provides with real-time quotes for diamonds.
 
 This module can loosely be understood as:
