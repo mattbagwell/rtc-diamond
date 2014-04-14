@@ -14,4 +14,4 @@ This module can loosely be understood as:
 	Bindings for when diamond aspects change  
     So we can update the visualizer and any other dependent options
 
-*	**initialization** - to set up the UI elements and events
+*	**initialization** - to render the UI elements and bind events
