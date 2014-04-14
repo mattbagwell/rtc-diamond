@@ -6,7 +6,7 @@ This script sets up the app interface, which provides with real-time quotes for 
 
 This module can loosely be understood as:
 
-*	**aspects**
+*	**aspects**  
 	Properties of the diamond such as color, clarity, carat size, etc.  
     These include the current value as well as the available range/limits/options
 
